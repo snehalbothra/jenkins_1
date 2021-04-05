@@ -1,0 +1,4 @@
+def add(a,b):
+  print(a+b)
+  return;
+add(2,4)
